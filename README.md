@@ -116,7 +116,7 @@ Exemplo de execução:
 ⚡ Sistema de Cálculo de IMC ⚡
 
 ╔══════════════════════════════════════════════════╗
-║               ⚡ SISTEMA IMC 1.0 ⚡                ║
+║               ⚡ SISTEMA IMC 1.0 ⚡             ║
 ╠══════════════════════════════════════════════════╣
 ║  [1] Cadastrar Pessoa                            ║
 ║  [2] Cadastrar Atleta                            ║
@@ -139,7 +139,7 @@ Pessoa cadastrada com sucesso!
 3
 
 ╔══════════════════════════════════════════════════╗
-║  ⚡ SISTEMA IMC 1.0 ⚡                             ║
+║  ⚡ SISTEMA IMC 1.0 ⚡                          ║
 ║  HISTÓRICO                                       ║
 ╚══════════════════════════════════════════════════╝
 Carregando histórico!
